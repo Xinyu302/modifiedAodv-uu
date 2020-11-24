@@ -260,11 +260,11 @@ void NS_CLASS rrpr_process(RRPR * rrpr, int rrprlen, struct in_addr ip_src, stru
     DEBUG(LOG_DEBUG, 0, "ip_src=%s rrpr_orig=%s rrpr_dest=%s ttl=%d",
           ip_to_str(ip_src), ip_to_str(rrpr_orig), ip_to_str(rrpr_dest),
           ip_ttl);
-    ///add BUAA_Yxy
+    ///add by BUAA_Yxy
     fprintf(stderr, "ip_src=%s rrpr_orig=%s rrpr_dest=%s ttl=%d\n",
           ip_to_str(ip_src), ip_to_str(rrpr_orig), ip_to_str(rrpr_dest),
           ip_ttl);
-    ///add BUAA_Yxy
+    ///add by  BUAA_Yxy
     if (rrprlen < (int)RRPR_CALC_SIZE(rrpr)) {
         alog(LOG_WARNING, 0, __FUNCTION__,
              "IP data too short (%u bytes) from %s to %s. Should be %d bytes.",
