@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MakefileSettings">
+    <option name="linkedExternalProjectsSettings">
+      <MakefileProjectSettings>
+        <option name="analyzerType" value="OUTPUT_PARSING" />
+        <option name="buildOptions" value="" />
+        <option name="buildTarget" value="all" />
+        <option name="cleanTarget" value="clean" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="F:\SexyYxy\大三上\无线网络系统\mine\ns-allinone-2.35\ns-2.35\aodv-uu-0.9.6" />
+          </set>
+        </option>
+        <option name="switches" value="--just-print --print-directory --keep-going" />
+      </MakefileProjectSettings>
+    </option>
+  </component>
+  <component name="MakefileWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+</project>
